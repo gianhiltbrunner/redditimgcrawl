@@ -1,0 +1,22 @@
+{
+  "name": "redditimgcrawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protelescristata/redditimgcrawl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/protelescristata/redditimgcrawl/issues"
+  },
+  "homepage": "https://github.com/protelescristata/redditimgcrawl#readme",
+  "dependencies": {
+    "download": "^5.0.2"
+  }
+}
